@@ -17,7 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\ClearMeasureInterview\ClearMeasureInterview.csproj" />
+    <ProjectReference Include="..\ClearMeasureInterview\ClearMeasureInterview.csproj" />
   </ItemGroup>
 
 </Project>
